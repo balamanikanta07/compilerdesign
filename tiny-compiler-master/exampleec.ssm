@@ -1,0 +1,11 @@
+ldc 3
+ldc 4
+mul
+ldc 3
+ldc 4
+add
+ldc 9
+ldc 8
+sub
+mul
+add
